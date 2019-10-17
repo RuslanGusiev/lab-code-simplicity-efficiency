@@ -7,6 +7,11 @@ The code is functional but has a lot of room for improvement. Use what you have 
 about simple and efficient code, refactor the code.
 """
 
+'''
+L.S. Very good! Nice and succint code. Minor improvements: (1) use range and ascii module to get the words and chars; 
+(2) if min_length > max_lenght I get an error. 
+'''
+
 import random
 
 a = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v',

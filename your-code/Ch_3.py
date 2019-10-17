@@ -12,6 +12,10 @@ The following function shows one way to solve the problem but the code is not id
 Refactor the code based on what you have learned about code simplicity and efficiency.
 """
 
+'''
+L.S. Very good! Potential improvement: use list comprehension. 
+'''
+
 X = input("What is the maximal length of the triangle side? Enter a number: ")
 
 max_side = 0
